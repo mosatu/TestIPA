@@ -29,7 +29,7 @@
                     <key>needs-shine</key>
                     <false/>
                     <key>url</key>
-                    <string>http://106.14.221.124/ipa/T3.ipa</string>      		<!-- 显示的图标.png的http地址 -->
+                    <string></string>      		<!-- 显示的图标.png的http地址 -->
                 </dict>
             </array>
             <key>metadata</key>
@@ -41,7 +41,7 @@
                 <key>kind</key>
                 <string>software</string>
                 <key>title</key>
-                <string>游戏名字</string>   							 <!-- 游戏名字 -->
+                <string>T3</string>   							 <!-- 游戏名字 -->
             </dict>
         </dict>
     </array>
